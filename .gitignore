@@ -1,0 +1,5 @@
+.vscode/
+.idea
+.mvn
+.DS_Store
+node_modules
