@@ -2,7 +2,7 @@
 
 模板引擎 nunjucks		
 
-官网[www.qadmin.net](http://www.qadmin.net)
+官网: [www.qadmin.net](http://www.qadmin.net)
 
 ## 安装
 
